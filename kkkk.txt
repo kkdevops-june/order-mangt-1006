@@ -1,0 +1,1 @@
+reset is from moving files from staging area to working area , revert is moving files from remote to working area
